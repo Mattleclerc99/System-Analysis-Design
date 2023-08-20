@@ -1,2 +1,16 @@
-# System-Analysis-Design
-CS-255 System Analysis &amp; Design 
+Briefly summarize the DriverPass project. Who was the client? What type of system did they want you to design? 
+  The client was DriverPass who wanted to develop an online platform where users can schedule, alter, or cancel driving lessons. Additionally, this platform would allow users to take mock exams and attend virtual classes. To streamline its design and function, the system would utilize development tools like object models, process models, and UML diagrams. Furthermore, for security purposes, the system would ensure that only specific approved employees have the permissions to make changes or upgrades.
+
+What did you do particularly well?
+  I believe I did well in designing a thorough system, the primary needs for booking and online practice exams were met, while also integrating sophisticated modeling tools such as object models, process models, and UML diagrams to assist in visualizing and outlining the system.
+
+If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?
+  I believe that the system could benefit from a greater focus on user feedback and ongoing refinements. A subsequent version should include a feature allowing users to offer insights for system betterment and highlight potential problems with enough CS members to cover the system 24/7 to ensure real time feedback all hours of the day.
+  
+How did you interpret the user’s needs and implement them into your system design? Why is it so important to consider the user’s needs when designing?
+  Based on the data shared by DriverPass and the identified shortcomings in existing training tools, user requirements were discerned. To cater to these demands, an online platform was developed offering mock tests and scheduling for on-road training. The inclusion of UML diagrams enhanced the system's design process.
+  Prioritizing user requirements is vital since a system or product's success hinges on its ease of use and significance to the end user. Should a system be misaligned with user expectations or prove challenging to navigate, users are inclined to discontinue its use.
+  
+How do you approach designing software? What techniques or strategies would you use in the future to analyze and design a system?
+  In software design, understanding user needs is paramount, achieved through research and direct user engagement. Initial design drafts are then crafted to guide the software's development. Modeling techniques enhance this visualization, capturing the system's architecture. With a focus on security, stringent protocols are implemented to protect against threats. The software undergoes iterative testing and fine-tuning from user feedback, ensuring it's efficient and user-focused.
+  In future designs, a user-centric focus will lead, underscoring user importance. Prototyping will create initial software iterations for direct user testing. Agile methods will steer development, promoting flexibility and repeated refinements. Continuous feedback loops will be pivotal, persistently absorbing and applying user feedback. This dedication, combined with advancing technologies, ensures the system's consistent advancement and fine-tuning.
